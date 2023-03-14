@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta charset="utf-8" />
+  <title>Surreal E-Shop</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <link rel="icon" type="image/x-icon" href="assets/images/icon.svg" />
+
+  <link href="assets/css/landing.css" rel="stylesheet"
+    type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <link href="https://cdn.sellix.io/static/css/embed.css" rel="stylesheet"/>
+    <script src="https://cdn.sellix.io/static/js/embed.js"></script>
+
+</head>
+
+<body class="body">
+
+  <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar w-nav">
+    <div class="navbar-container w-container">
+      <a href="index.html" id="w-node-_8896baaa-60fd-7d70-555c-63401dbf326b-1dbf3269" aria-current="page" class="w-nav-brand" style="display: flex;justify-content: center;align-items: center;">
+        <img src="assets/images/logo.svg" loading="lazy" alt="" class="image-21">
+      </a>
+
+      <nav role="navigation" id="w-node-_8896baaa-60fd-7d70-555c-63401dbf326d-1dbf3269" class="nav-menu w-nav-menu">
+        <a href="#home" aria-current="page" class="nav-link w-nav-link w--current">Home</a>
+        <a href="#pricing" target="_blank" class="nav-link w-nav-link">Pricing</a>
+        <a href="#features" target="_blank" class="nav-link w-nav-link">Features</a>
+        <a href="#reviews" target="_blank" class="nav-link w-nav-link">Reviews</a>
+        <a href="#contact" class="nav-link w-nav-link">Contact </a>
+      </nav>
+      <div id="w-node-_8896baaa-60fd-7d70-555c-63401dbf327b-1dbf3269" class="div-block">
+        <a href="https://discord.gg/surrealeshopz" target="_blank" class="log-in-button w-button"> Discord</a>
+        <a href="#pricing" target="_blank" class="sign-up-button w-button">Purchase</a>
+      </div>
+    </div>
+    <div class="menu-button-2 w-nav-button">
+      <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+  </div>
+  <div class="hero-section wf-section" id="home">
+    <div class="hero-container">
+      <div class="hero-text">
+        <div class="left">
+          <div class="tag">🎉 Our new website is live! ✨</div>
+          <h1 class="heading-1">Explore the world of <span class="text-span-2">Surreal</span></h1>
+          <p class="body-1 hero-paragraph"><br>Cheap prices, 50ms response speeds, high thread limits and professionally made IPv6 proxies</p><br /></p>
+            <a href="#pricing" class="main-button w-button">Buy Now!</a>
+          <div class="checkbox-ch">
+            <i class="fa fa-check" aria-hidden="true"></i>
+            <p class="body-1 hero-paragraph">GDPR Compliancy Officer ｜ <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3e4d5051494e4c5146575b4d7e514b4a52515155105d5153">[email&#160;protected]</a></p>
+          </div>
+        </div>
+
+        <div class="right">
+          <img src="assets/images/servers.png" loading="lazy" alt="" style="opacity: 0.7;" class="float">
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+
+
+  <div class="features-section wf-section" id="features">
+    <div class="features-container">
+      <h2 id="w-node-_28386c5f-5edc-b860-2de0-6b753ecb9286-b20aa670" data-w-id="28386c5f-5edc-b860-2de0-6b753ecb9286"
+        class="heading-2 features-heading" data-aos="fade-down">Features</h2>
+      <div class="features-wrap">
+        <div class="feature-box" data-aos="fade-up">              
+          <div class="features-icon"> 
+            <i class="fa fa-check" aria-hidden="true"></i>
+          </div>
+          <h3 class="sub-heading-01 f-card-heading">Instant Delivery</h3>
+          <p class="body-1">At Snowproxies we offer you a unique instant-delivery system, on delivery you recieve an activated proxy.</p>
+            
+        </div>
+        <div class="feature-box" data-aos="fade-up">
+          <div class="features-icon"> 
+            <i class="fa-solid fa-ticket"></i>
+          </div>
+          <h3 class="sub-heading-01 f-card-heading">Trusted</h3>
+          <p class="body-1">We have a strong history of extremely satisfied clients who have recommended our products.</p>
+        </div>
+        <div class="feature-box" data-aos="fade-up">
+          <div class="features-icon"> 
+            <i class="fa-solid fa-circle-info"></i>
+          </div>
+          <h3 class="sub-heading-01 f-card-heading">Affordable</h3>
+          <p class="body-1">We believe in high quality at very affordable prices, allowing all users to have a good experience at a lower price.</p>
+        </div>
+
+        <div class="feature-box" data-aos="fade-up">
+          <div class="features-icon"> 
+            <i class="fa-solid fa-star"></i>
+          </div>
+          <h3 class="sub-heading-01 f-card-heading">0 Log Policy</h3>
+          <p class="body-1">Here at snowproxies we believe in privacy, we keep to a strict 0-Log policy to ensure the privacy of all users.</p>
+        </div>
+        <div class="feature-box" data-aos="fade-up">
+          <div class="features-icon"> 
+            <i class="fa-solid fa-rocket"></i>
+          </div>
+          <h3 class="sub-heading-01 f-card-heading">Payment Methods</h3>
+          <p class="body-1">We accept most major payment methods, Most if not all crypto currencies, paypal, card and cashapp soon to come.</p>
+        </div>
+        <div class="feature-box" data-aos="fade-up">
+          <div class="features-icon"> 
+            <i class="fa-solid fa-face-laugh-beam"></i>
+          </div>
+          <h3 class="sub-heading-01 f-card-heading">Happy Customers</h3>
+          <p class="body-1">Our customers support us and we are proud of our success, we have 100's of happy customers.</p>
+        </div>
+      </div>
+
+      <div class="container-5 w-container" data-aos="fade-up">
+        <a href="#reviews" class="main-button w-button">Our Reviews</a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="stat-section wf-section" data-aos="fade-up">
+    <div class="stat-container">
+      <div class="stat-tittle-wrapper">
+        <h2 class="heading-2">We set the Trends</h2>
+      </div>
+      <div class="stat-wrapper">
+        <div class="flex-wrapper">
+          <div>
+            <h2 class="heading-2">100M+</h2>
+            <p class="body-1-medium stat-body-text">IP's used</p>
+            <p class="body-2">Over 100 million IP addresses used just in two months and not a dent in our pool! We never reuse IP addresses to ensure the quality of our services.</p>
+          </div>
+          <div>
+            <h2 class="heading-2">100+</h2>
+            <p class="body-1-medium stat-body-text">Happy Clients</p>
+            <p class="body-2">Over 100+ happy clients and more to come! we provide 24/7 support to all customers and fix issues ASAP.</p>
+          </div>
+          <div>
+            <h2 class="heading-2">Security</h2>
+            <p class="body-1-medium stat-body-text">GDPR Compliance</p>
+            <p class="body-2">With the large scale we perform operations we make sure to be GDPR compliant in all areas, if you suspect a GDPR breach on our end please contact our GDPR compliance officer listed at the top of the page.</p>
+          </div>
+        </div>
+      </div>
+      <div class="container-5 w-container" data-aos="fade-up">
+        <a href="#pricing" class="main-button w-button">Purchase</a>
+      </div>
+    </div>
+  </div>
+
+
+
+  
+  <div class="stat-section wf-section" id="reviews">
+    <div class="stat-container">
+      <div class="stat-tittle-wrapper">
+        <h2 class="heading-2" data-aos="fade-up">Reviews</h2>
+      </div>
+      <div class="stat-wrapper">
+        <div class="review-container">
+
+          <div class="review-card" data-aos="fade-right">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">Blax</h3>
+                  <p class="body-1-medium">Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">pretty good proxies and they fast asf thx for this great service and support <3 </p>
+            </div>
+          </div> 
+
+          <div class="review-card" data-aos="fade-up">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">Unknown</h3>
+                  <p class="body-1-medium">Sellix Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">amazing proxies, fast cheap and affordable</p>
+            </div>
+          </div> 
+
+          <div class="review-card" data-aos="fade-up">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">Unknown</h3>
+                  <p class="body-1-medium">Sellix Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">I use regularly, good speeds and good support</p>
+            </div>
+          </div> 
+
+          <div class="review-card" data-aos="fade-up">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">La_Patria</h3>
+                  <p class="body-1-medium">Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">UHQ asf</p>
+            </div>
+          </div> 
+
+          <div class="review-card" data-aos="fade-up">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">FLU1D</h3>
+                  <p class="body-1-medium">Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">uhq, cheap and reliable | Legit guy | best proxies ever</p>
+            </div>
+          </div> 
+
+          <div class="review-card" data-aos="fade-up">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">KyleDeluxe</h3>
+                  <p class="body-1-medium">Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">works very well. and the staff members are pretty cute. thanks will be back!</p>
+            </div>
+          </div> 
+
+          <div class="review-card" data-aos="fade-right">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">Dark Itsme</h3>
+                  <p class="body-1-medium">Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">Very Good Proxies Working With Xbox :) Fast Asf Recommended.</p>
+            </div>
+          </div> 
+
+          <div class="review-card" data-aos="fade-up">
+            <div class="review-card-header">
+              <div class="review-card-header-left">
+                <div class="review-card-header-left-text">
+                  <h3 class="heading-3">iAmine</h3>
+                  <p class="body-1-medium">Customer</p>
+                </div>
+              </div>
+              <div class="review-card-header-right">
+                <div class="review-card-header-right-text">
+                  <p class="body-1-medium">5.0</p>
+                </div>
+                <div class="review-card-header-right-icon">
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                  <i class="fa-solid fa-star"></i>
+                </div>
+              </div>
+            </div>
+            <div class="review-card-body">
+              <p class="body-2">uhq proxies.</p>
+            </div>
+          </div> 
+
+        
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  
+  
+  <div class="stat-section wf-section" id="pricing">
+    <div class="stat-container"  style="min-height: 700px;">
+      <div class="stat-tittle-wrapper products-wrap">
+        <h2 class="heading-2" data-aos="fade-up">Pricing</h2>
+      </div>
+      <div class="filter-buttons">
+        <button class="filter-button" data-target="#novice" data-aos="fade-up"><i class="squareCheck fas fa-check"></i>Novice</button>
+        <button class="filter-button" data-target="#scripter" data-aos="fade-up"><i class="fas fa-check"></i>Scripter </button>
+        <button class="filter-button" data-target="#enterprise" data-aos="fade-up"><i class="fas fa-check"></i>Enterprise</button>
+
+      </div>
+      <div class="stat-wrapper">
+
+        
+        <div class="products-container" id="novice">
+          <div class="product-card">
+            <div class="product-card-header">
+              <div class="product-card-header-left">
+                <div class="product-card-header-left-text">
+                  <h3 class="heading-3"><i class="fa-solid fa-cloud-arrow-up"></i> Starter</h3>
+                  <p class="body-1-medium">Perfect for starters</p>
+                </div>
+              </div>
+            </div>
+            <div class="product-card-header">
+              <div class="product-card-header-right">
+                <div class="product-card-header-right-text">
+                  <p class="body-1-medium"><i class="fa-solid fa-dollar-sign"></i>9.99</p>
+                </div>
+              </div>
+              <small>/ Weekly</small>
+            </div>
+            <div class="product-card-footer">
+              <button class="main-button" data-sellix-product="64042477617c5"
+              type="submit"
+              alt="Buy Now with sellix.io"
+              >Buy Now</button>
+            </div>  
+            <div class="product-features">
+              <div class="product-features-item">
+                <div class="product-features-item-left first-one">
+                  <i class="fa-solid fa-chevron-right"></i>
+                  <p class="body-2">Plan Includes:</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">125 Threads</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited Bandwidth</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited IP's</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">0 Log Policy</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">/44 Subnet</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">IPv6 Forcing</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">99.99% Uptime</p>
+                </div>  
+              </div>
+            </div>
+          </div>
+
+          <div class="product-card">
+            <div class="product-card-header">
+              <div class="product-card-header-left">
+                <div class="product-card-header-left-text">
+                  <h3 class="heading-3"><i class="fa-solid fa-award"></i> Pro</h3>
+                  <p class="body-1-medium">Perfect for big consumers</p>
+                </div>
+              </div>
+            </div>
+            <div class="product-card-header">
+              <div class="product-card-header-right">
+                <div class="product-card-header-right-text">
+                  <p class="body-1-medium"><i class="fa-solid fa-dollar-sign"></i>24.99</p>
+                </div>
+              </div>
+              <small>/ Monthly</small>
+            </div>
+            <div class="product-card-footer">
+              <button class="main-button" data-sellix-product="640424ea61164"
+              type="submit"
+              alt="Buy Now with sellix.io"
+              >Buy Now</button>
+            </div>  
+            <div class="product-features">
+              <div class="product-features-item">
+                <div class="product-features-item-left first-one">
+                  <i class="fa-solid fa-chevron-right"></i>
+                  <p class="body-2">Plan Includes:</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">125 Threads</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited Bandwidth</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited IP's</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">0 Log Policy</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">/44 Subnet</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">IPv6 Forcing</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">99.99% Uptime</p>
+                </div>  
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+
+
+        
+        <div class="products-container" id="scripter">
+          <div class="product-card">
+            <div class="product-card-header">
+              <div class="product-card-header-left">
+                <div class="product-card-header-left-text">
+                  <h3 class="heading-3"><i class="fa-solid fa-cloud-arrow-up"></i> Starter</h3>
+                  <p class="body-1-medium">Perfect for servers</p>
+                </div>
+              </div>
+            </div>
+            <div class="product-card-header">
+              <div class="product-card-header-right">
+                <div class="product-card-header-right-text">
+                  <p class="body-1-medium"><i class="fa-solid fa-dollar-sign"></i>24.99</p>
+                </div>
+              </div>
+              <small>/ Weekly</small>
+            </div>
+            <div class="product-card-footer">
+              <button class="main-button" data-sellix-product="640425da18516"
+              type="submit"
+              alt="Buy Now with sellix.io"
+              >Buy Now</button>
+            </div>  
+            <div class="product-features">
+              <div class="product-features-item">
+                <div class="product-features-item-left first-one">
+                  <i class="fa-solid fa-chevron-right"></i>
+                  <p class="body-2">Plan Includes:</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">250 Threads</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited Bandwidth</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited IP's</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">0 Log Policy</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">/44 Subnet</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">IPv6 Forcing</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">99.99% Uptime</p>
+                </div>  
+              </div>
+            </div>
+          </div>
+
+          <div class="product-card">
+            <div class="product-card-header">
+              <div class="product-card-header-left">
+                <div class="product-card-header-left-text">
+                  <h3 class="heading-3"><i class="fa-solid fa-award"></i> Pro</h3>
+                  <p class="body-1-medium">Perfect for big consumers</p>
+                </div>
+              </div>
+            </div>
+            <div class="product-card-header">
+              <div class="product-card-header-right">
+                <div class="product-card-header-right-text">
+                  <p class="body-1-medium"><i class="fa-solid fa-dollar-sign"></i>49.99</p>
+                </div>
+              </div>
+              <small>/ Monthly</small>
+            </div>
+            <div class="product-card-footer">
+              <button class="main-button" data-sellix-product="64042639e5dc5"
+              type="submit"
+              alt="Buy Now with sellix.io"
+              >Buy Now</button>
+            </div>  
+            <div class="product-features">
+              <div class="product-features-item">
+                <div class="product-features-item-left first-one">
+                  <i class="fa-solid fa-chevron-right"></i>
+                  <p class="body-2">Plan Includes:</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">250 Threads</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited Bandwidth</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited IP's</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">0 Log Policy</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">/44 Subnet</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">IPv6 Forcing</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">99.99% Uptime</p>
+                </div>  
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+        
+        <div class="products-container" id="enterprise">
+
+          <div class="product-card">
+            <div class="product-card-header">
+              <div class="product-card-header-left">
+                <div class="product-card-header-left-text">
+                  <h3 class="heading-3"><i class="fa-solid fa-cloud-arrow-up"></i> Starter</h3>
+                  <p class="body-1-medium">Perfect for servers</p>
+                </div>
+              </div>
+            </div>
+            <div class="product-card-header">
+              <div class="product-card-header-right">
+                <div class="product-card-header-right-text">
+                  <p class="body-1-medium"><i class="fa-solid fa-dollar-sign"></i>49.99</p>
+                </div>
+              </div>
+              <small>/ Weekly</small>
+            </div>
+            <div class="product-card-footer">
+              <button class="main-button" data-sellix-product="6404267f70e0a"
+              type="submit"
+              alt="Buy Now with sellix.io"
+              >Buy Now</button>
+            </div>  
+            <div class="product-features">
+              <div class="product-features-item">
+                <div class="product-features-item-left first-one">
+                  <i class="fa-solid fa-chevron-right"></i>
+                  <p class="body-2">Plan Includes:</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">500 Threads</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited Bandwidth</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited IP's</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">0 Log Policy</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">/44 Subnet</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">IPv6 Forcing</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">99.99% Uptime</p>
+                </div>  
+              </div>
+            </div>
+          </div>
+
+          <div class="product-card">
+            <div class="product-card-header">
+              <div class="product-card-header-left">
+                <div class="product-card-header-left-text">
+                  <h3 class="heading-3"><i class="fa-solid fa-award"></i> Pro</h3>
+                  <p class="body-1-medium">Perfect for big consumers</p>
+                </div>
+              </div>
+            </div>
+            <div class="product-card-header">
+              <div class="product-card-header-right">
+                <div class="product-card-header-right-text">
+                  <p class="body-1-medium"><i class="fa-solid fa-dollar-sign"></i>79.99</p>
+                </div>
+              </div>
+              <small>/ Monthly</small>
+            </div>
+            <div class="product-card-footer">
+              <button class="main-button" data-sellix-product="640426c8041b6"
+              type="submit"
+              alt="Buy Now with sellix.io"
+              >Buy Now</button>
+            </div>  
+            <div class="product-features">
+              <div class="product-features-item">
+                <div class="product-features-item-left first-one">
+                  <i class="fa-solid fa-chevron-right"></i>
+                  <p class="body-2">Plan Includes:</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">500 Threads</p>
+                </div>
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited Bandwidth</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">Unlimited IP's</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">0 Log Policy</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">/44 Subnet</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">IPv6 Forcing</p>
+                </div>  
+                <div class="product-features-item-left">
+                  <i class="fa-solid fa-check"></i>
+                  <p class="body-2">99.99% Uptime</p>
+                </div>  
+              </div>
+            </div>
+          </div>
+
+          
+        </div>
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+  <div class="stat-section wf-section" id="contact" >
+    <div class="stat-container">
+      <div class="stat-wrapper">
+        <div class="discord-contact">
+          <img src="assets/images/guy.jpg" alt="" class="discord-contact-image">
+          <div class="discord-contact-left">
+            <div class="discord-contact-left-text">
+              <h3 class="heading-3">Contact Us</h3>
+              <p class="body-1-medium">For any questions or concerns, please contact us on our discord server.</p>
+            </div>
+          </div>
+          <div class="discord-contact-right">
+            <div class="discord-contact-right-text">
+              <a href="#" target="_blank" class="main-button" >Join Discord</a>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="footer wf-section">
+    <div class="footer-contaienr">
+      <div class="div-block-9">
+        <div class="body-2 footer-down-text">© 2023 SnowProxies. All Rights Reserved.</div>
+      </div>
+    </div>
+  </div>
+
+
+  
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="assets/js/script.js"></script>
+  <script src="assets/js/main.js"></script>
+
+  <script>
+    function createSnow() {
+      const snow = document.createElement("div");
+
+      let width = Math.random() * 10 + 15 + "px";
+    
+      snow.innerHTML = "<img id='snowflake' src='https://static.vecteezy.com/system/resources/previews/001/194/635/non_2x/snowflake-png.png' width='" + width + "'/>";
+      snow.classList.add("snow");
+    
+      document.body.appendChild(snow);
+    
+      snow.style.left = Math.random() * 100 + "vw";
+    
+      snow.style.animationDuration = Math.random() * 5 + 8 + "s";
+
+
+      
+      
+      
+    
+      setTimeout(() => {
+        snow.remove();
+      }, 20000);
+    }
+    
+    setInterval(createSnow, 800);
+    
+  </script>
+
+</body>
+
+
+</html>
